@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/choco/static/css/main.36adab6a.css",
+    "main.js": "/choco/static/js/main.d1349f1f.js",
+    "static/js/787.13a6cb8c.chunk.js": "/choco/static/js/787.13a6cb8c.chunk.js",
+    "static/media/baked chocolate.jpg": "/choco/static/media/baked chocolate.9d22e5d51110b3e9ce83.jpg",
+    "static/media/chocococonut.jpg": "/choco/static/media/chocococonut.711e7e1d2c397e7045af.jpg",
+    "static/media/dark chocolate.jpg": "/choco/static/media/dark chocolate.04385ed9ed71c3f8af28.jpg",
+    "static/media/review one.jpg": "/choco/static/media/review one.57d05e8cc31286bbdbd2.jpg",
+    "static/media/darkchocolate.jpg": "/choco/static/media/darkchocolate.a49d1d54e6af350f2904.jpg",
+    "static/media/review three.jpg": "/choco/static/media/review three.edc0ed37420f16ddb987.jpg",
+    "static/media/nutschocolate.jpg": "/choco/static/media/nutschocolate.778b50613549ee0c34b8.jpg",
+    "static/media/Bittersweet.jpg": "/choco/static/media/Bittersweet.fd785b4490514ff2c938.jpg",
+    "static/media/Gift.jpg": "/choco/static/media/Gift.0f2bd2577f8b7d07b2eb.jpg",
+    "static/media/chunkychoco.jpg": "/choco/static/media/chunkychoco.e18b9dfc90741968b5e8.jpg",
+    "static/media/reviewthree.jpg": "/choco/static/media/reviewthree.124707a4e9bc9515096e.jpg",
+    "static/media/mousse.jpg": "/choco/static/media/mousse.3cdeab9ab08bfc87b945.jpg",
+    "static/media/workshop img1.jpg": "/choco/static/media/workshop img1.938e175b004e52437262.jpg",
+    "static/media/darkcaramel.jpg": "/choco/static/media/darkcaramel.5748810106260d015d97.jpg",
+    "static/media/Workshop img.png": "/choco/static/media/Workshop img.8998df8185f89eeafe84.png",
+    "static/media/review two.jpg": "/choco/static/media/review two.e4e206b9e7224df34e18.jpg",
+    "static/media/banner3.jpg": "/choco/static/media/banner3.23b8aa550fd6da47f88a.jpg",
+    "static/media/organic.png": "/choco/static/media/organic.622fd8d5938cf0be7bc9.png",
+    "static/media/gluten free.png": "/choco/static/media/gluten free.8833475096e20535f18e.png",
+    "static/media/leaves.png": "/choco/static/media/leaves.7f33d88c74d9f68f8290.png",
+    "index.html": "/choco/index.html",
+    "main.36adab6a.css.map": "/choco/static/css/main.36adab6a.css.map",
+    "main.d1349f1f.js.map": "/choco/static/js/main.d1349f1f.js.map",
+    "787.13a6cb8c.chunk.js.map": "/choco/static/js/787.13a6cb8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36adab6a.css",
+    "static/js/main.d1349f1f.js"
+  ]
+}
